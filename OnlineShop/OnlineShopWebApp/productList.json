@@ -1,0 +1,20 @@
+﻿[
+  {
+    "Id": 1,
+    "Name": "Name1",
+    "Cost": 1.0,
+    "Description": "No description"
+  },
+  {
+    "Id": 2,
+    "Name": "Name1",
+    "Cost": 1.0,
+    "Description": "No description"
+  },
+  {
+    "Id": 3,
+    "Name": "Name1",
+    "Cost": 1.0,
+    "Description": "No description"
+  }
+]
